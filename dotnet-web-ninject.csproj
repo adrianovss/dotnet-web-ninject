@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>dotnet_web_ninject</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Ninject" Version="4.0.0-beta-0134"/>
+    <PackageReference Include="Ninject.Web.AspNetCore" Version="6.1.2"/>
+    <PackageReference Include="Ninject.Web.AspNetCore.IIS" Version="6.1.2"/>
+    <PackageReference Include="Ninject.Web.AspNetCore.HttpSys" Version="6.1.2"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AhPOSC+Y8ZjB7a6MEnW+4EqHie39PYrSALTVfapFf1M=",
+  "Source": "dotnet-web-ninject",
+  "BasePath": "_content/dotnet-web-ninject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
